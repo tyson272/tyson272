@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyson</h1>
-<h3 align="center">🌐 A passionate Frontend Developer from India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Frontend+Dev+%7C+Full+Stack+Learner+%7C+Explorer" alt="Typing SVG" />
-</p>
+<h3 align="center">🌐 A passionate Frontend Developer from India</h3
 
 ---
 
@@ -17,6 +13,26 @@
 - 👨‍🎓 I’m a Computer Science student with a passion for design & code
 - 📫 Reach me at: [kakarlapavankumar07@gmail.com](mailto:kakarlapavankumar07@gmail.com)
 - 😄 Fun fact: I write better code than jokes... most of the time 😅
+
+---
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan-kumar-kakarla-a9a72a349" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.instagram.com/pavan_kr7_" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="40" />
+  </a>
+  <a href="https://www.facebook.com/share/16s8m4X2fm/" target="_blank" title="Facebook">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="40" />
+  </a>
+  <a href="mailto:kakarlapavankumar07@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40" />
+  </a>
+</p>
+
+ 
 
 ---
 
@@ -61,39 +77,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tyson272&theme=radical&row=1&column=7" />
 </p>
 
----
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavan-kumar-kakarla-a9a72a349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/pavan_kr7_?igsh=MW10eDRqdHZsaTZqYQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/16s8m4X2fm/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:kakarlapavankumar07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## ✍️ Quote of the Day
 > “Stay hungry. Stay foolish.” – Steve Jobs
 
----
-
-## 🐍 Fun Snake Game (GitHub Contribution Graph)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
