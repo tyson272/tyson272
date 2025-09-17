@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyson</h1>
-<h3 align="center">🌐 A passionate FullStack Web Developer from India</h3
+<h3 align="center">🌐 A passionate Frontend Developer from India</h3
 
 ---
 
@@ -80,7 +80,7 @@
 
 
 ## ✍️ Quote of the Day
-> “Stay hungry. Stay foolish.” – Steve Jobs
+> “Stay hungry. Stay foolish.” – Pavann
 
 
 ## ⚡ Recent Activity
