@@ -61,26 +61,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyson272&layout=compact&theme=radical" height="180px" />
 </div>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyson272&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tyson272&theme=radical&row=1&column=7" />
-</p>
 
 
 
-## ✍️ Quote of the Day
-> “Stay hungry. Stay foolish.” – Pavann
 
 
 ## ⚡ Recent Activity
